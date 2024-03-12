@@ -1,1 +1,1 @@
-alert("hello")
+alert("hello1 in clone")
