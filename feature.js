@@ -1,2 +1,2 @@
 console.log("Iam feature ")
-console.log("Iam feature 1")
+console.log("Iam feature 2")
